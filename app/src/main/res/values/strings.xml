@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_name">The Statue of Unity Quiz</string>
+    <string name="start_btn_text">Let\'s Play</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="welcomeDesc_txt">Recently inaugrated world\'s tallest statue,the Statue of Unity is news trending.Let\'s play a quiz related with the world\'s tallest statue.</string>
+
+    <string name="que1">Q1. The Statue of Unity is dedicated to which leader ?</string>
+    <string name="que2">Q2. The Statue of Unity is located on island in river __________.</string>
+    <string name="que3">Q3. The Statue of Unity is located in which state ?</string>
+    <string name="que4">Q4. The leader is also known as ________ man of India.</string>
+    <string name="que5">Q5. This year(2018) was ____rd birth anniversary of the leader.</string>
+    <string name="que6">Q6. What is the height of the Statue of Unity ?</string>
+    <string name="que7">Q7. The statue is made up of -</string>
+    <string name="que8">Q8. Who is the designer of the Statue of Unity ?</string>
+    <string name="que9">Q9. When was the Statue of Unity inaugrated ?</string>
+    <string name="que10">Q10. Who inaugrated the Statue of Unity ?</string>
+
+    <string name="NaMo">Narendra Modi</string>
+    <string name="SaPa">Sardar Vallabhbhai Patel</string>
+    <string name="MaGa">Mahatma Gandhi</string>
+    <string name="VeNa">Venkaiya Naidu</string>
+    <string name="ViRu">Vijay Rupani</string>
+    <string name="RaSu">Ram V. Sutar</string>
+    <string name="JoMe">Joseph Menna</string>
+    <string name="MaMo">Manish Malhotra</string>
+    <string name="guj">Gujarat</string>
+    <string name="pun">Punjab</string>
+    <string name="del">New Delhi</string>
+    <string name="ht180">180 metres</string>
+    <string name="ht182">182 metres</string>
+    <string name="ht282">282 metres</string>
+    <string name="conc">Concrete</string>
+    <string name="steel">Steel</string>
+    <string name="brnz">Bronze</string>
+    <string name="all">All of the above</string>
+
+    <string name="hint_txt">Your response</string>
+</resources>
